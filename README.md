@@ -9,5 +9,5 @@ bundle install
 
 Run: 
 
-./build.rb <room name>
+./build.rb &lt;room name&gt;
 
