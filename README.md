@@ -10,7 +10,9 @@ bundle install
 In Campfire, make a Standup report in this form (the first word is really all that matters for matching):
 
 Yesterday: did a, b, and c ; Today: did x, y, and z ; Blockers: none
-or
+
+OR
+
 Friday: did a, b, and c ; Today: did x, y, and z ; Blockers: none
 
 
